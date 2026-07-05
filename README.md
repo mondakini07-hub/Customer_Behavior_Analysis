@@ -212,9 +212,9 @@ Customer_Behavior_Analysis/
 ---
 
 # 👨‍💻 Author
+**Mondakini Rani Paul**
 
 Prepared for
-
 **Alfido Tech Data Analytics Internship**
 
 Using
